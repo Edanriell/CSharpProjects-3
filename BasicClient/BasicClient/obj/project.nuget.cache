@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TK1fPIFjWqaj4yN6rf0PfCPcQUivEcjKZl8117PG7F9804tVVtb4KWEyrPdXyY0b8HpR+olebN5Db27X1LcYhw==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectsFromBooks\\TheCSharpWorkshop\\BasicClient_0\\BasicClient_0\\BasicClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauris\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

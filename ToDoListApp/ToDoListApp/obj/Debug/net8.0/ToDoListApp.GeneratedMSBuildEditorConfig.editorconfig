@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ToDoListApp
+build_property.RootNamespace = ToDoListApp
+build_property.ProjectDir = D:\ProjectsFromBooks\TheCSharpWorkshop\ToDoListApp\ToDoListApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ProjectsFromBooks\TheCSharpWorkshop\ToDoListApp\ToDoListApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Components/ActivityLog/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xBY3Rpdml0eUxvZ1xkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Components/Stats/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xTdGF0c1xkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Tasks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFza3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Tasks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFza3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Tasks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFza3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Tasks/_TaskItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFza3NcX1Rhc2tJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectsFromBooks/TheCSharpWorkshop/ToDoListApp/ToDoListApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jcer3x3gn7

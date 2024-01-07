@@ -1,0 +1,17 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\bin\Debug\net8.0\BasicClient_0.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\bin\Debug\net8.0\BasicClient_0.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\bin\Debug\net8.0\BasicClient_0.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\bin\Debug\net8.0\BasicClient_0.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\bin\Debug\net8.0\BasicClient_0.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.csproj.AssemblyReference.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.csproj.CopyComplete
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\refint\BasicClient_0.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\BasicClient_0.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\BasicClient_0\BasicClient_0\obj\Debug\net8.0\ref\BasicClient_0.dll

@@ -1,0 +1,14 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\bin\Debug\net7.0\WebFileDownloader.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\bin\Debug\net7.0\WebFileDownloader.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\bin\Debug\net7.0\WebFileDownloader.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\bin\Debug\net7.0\WebFileDownloader.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\bin\Debug\net7.0\WebFileDownloader.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\WebFileDownloader.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\WebFileDownloader.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\WebFileDownloader.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\WebFileDownloader.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\WebFileDownloader.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\refint\WebFileDownloader.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\WebFileDownloader.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\WebFileDownloader.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\WebFileDownloader\WebFileDownloader\obj\Debug\net7.0\ref\WebFileDownloader.dll

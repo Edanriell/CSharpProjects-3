@@ -1,0 +1,14 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\bin\Debug\net7.0\WritingToATextFile.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\bin\Debug\net7.0\WritingToATextFile.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\bin\Debug\net7.0\WritingToATextFile.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\bin\Debug\net7.0\WritingToATextFile.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\bin\Debug\net7.0\WritingToATextFile.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\WritingToATextFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\WritingToATextFile.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\WritingToATextFile.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\WritingToATextFile.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\WritingToATextFile.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\refint\WritingToATextFile.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\WritingToATextFile.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\WritingToATextFile.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\WritingToATextFile\WritingToATextFile\obj\Debug\net7.0\ref\WritingToATextFile.dll

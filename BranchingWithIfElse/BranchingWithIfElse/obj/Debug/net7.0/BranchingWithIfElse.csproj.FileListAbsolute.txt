@@ -1,0 +1,14 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\BranchingWithIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\BranchingWithIfElse.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\BranchingWithIfElse.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\BranchingWithIfElse.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\bin\Debug\net7.0\BranchingWithIfElse.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\bin\Debug\net7.0\BranchingWithIfElse.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\bin\Debug\net7.0\BranchingWithIfElse.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\bin\Debug\net7.0\BranchingWithIfElse.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\bin\Debug\net7.0\BranchingWithIfElse.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\BranchingWithIfElse.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\refint\BranchingWithIfElse.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\BranchingWithIfElse.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\BranchingWithIfElse.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\BranchingWithIfElse\BranchingWithIfElse\obj\Debug\net7.0\ref\BranchingWithIfElse.dll

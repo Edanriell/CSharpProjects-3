@@ -1,0 +1,14 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\bin\Debug\net7.0\UsingSwitchToOrderFood.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\bin\Debug\net7.0\UsingSwitchToOrderFood.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\bin\Debug\net7.0\UsingSwitchToOrderFood.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\bin\Debug\net7.0\UsingSwitchToOrderFood.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\bin\Debug\net7.0\UsingSwitchToOrderFood.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\UsingSwitchToOrderFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\UsingSwitchToOrderFood.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\UsingSwitchToOrderFood.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\UsingSwitchToOrderFood.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\UsingSwitchToOrderFood.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\refint\UsingSwitchToOrderFood.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\UsingSwitchToOrderFood.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\UsingSwitchToOrderFood.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\UsingSwitchToOrderFood\UsingSwitchToOrderFood\obj\Debug\net7.0\ref\UsingSwitchToOrderFood.dll

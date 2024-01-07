@@ -1,0 +1,9 @@
+﻿using StarWarsMoviesClient;
+
+using var client = new StarWarsClient();
+var filmsResponse = await client.GetFilms();
+var films = filmsResponse.Results;
+foreach (var film in films)
+{
+    Console.WriteLine($"{film.Release_Date} {film.Title}");
+}

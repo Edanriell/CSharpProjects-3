@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "euHD39T4C1HrgZd0hOhgtjVs8nIf//huyuLMOFW7jJYwvaarbFioD538sWDWFMoJ7iEnqvhTMjTmKX6gP96F2g==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectsFromBooks\\TheCSharpWorkshop\\StarWarsMoviesClient\\StarWarsMoviesClient\\StarWarsMoviesClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauris\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

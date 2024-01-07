@@ -1,0 +1,17 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\bin\Debug\net8.0\CountriesClient.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\bin\Debug\net8.0\CountriesClient.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\bin\Debug\net8.0\CountriesClient.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\bin\Debug\net8.0\CountriesClient.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\bin\Debug\net8.0\CountriesClient.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\bin\Debug\net8.0\RestSharp.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.csproj.AssemblyReference.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.csproj.CopyComplete
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\refint\CountriesClient.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\CountriesClient.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\CountriesClient\CountriesClient\obj\Debug\net8.0\ref\CountriesClient.dll

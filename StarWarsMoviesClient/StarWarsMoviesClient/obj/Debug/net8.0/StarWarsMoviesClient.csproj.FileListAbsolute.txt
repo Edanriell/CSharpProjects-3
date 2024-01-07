@@ -1,0 +1,17 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\bin\Debug\net8.0\StarWarsMoviesClient.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\bin\Debug\net8.0\StarWarsMoviesClient.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\bin\Debug\net8.0\StarWarsMoviesClient.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\bin\Debug\net8.0\StarWarsMoviesClient.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\bin\Debug\net8.0\StarWarsMoviesClient.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.csproj.AssemblyReference.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.csproj.CopyComplete
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\refint\StarWarsMoviesClient.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\StarWarsMoviesClient.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\StarWarsMoviesClient\StarWarsMoviesClient\obj\Debug\net8.0\ref\StarWarsMoviesClient.dll

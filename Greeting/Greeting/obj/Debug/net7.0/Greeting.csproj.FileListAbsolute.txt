@@ -1,0 +1,14 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\bin\Debug\net7.0\Greeting.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\bin\Debug\net7.0\Greeting.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\bin\Debug\net7.0\Greeting.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\bin\Debug\net7.0\Greeting.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\bin\Debug\net7.0\Greeting.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\Greeting.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\Greeting.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\Greeting.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\Greeting.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\refint\Greeting.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\Greeting.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\Greeting.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\Greeting\Greeting\obj\Debug\net7.0\ref\Greeting.dll

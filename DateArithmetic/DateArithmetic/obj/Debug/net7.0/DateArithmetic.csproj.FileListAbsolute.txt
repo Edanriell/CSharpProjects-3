@@ -1,0 +1,14 @@
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\bin\Debug\net7.0\DateArithmetic.exe
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\bin\Debug\net7.0\DateArithmetic.deps.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\bin\Debug\net7.0\DateArithmetic.runtimeconfig.json
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\bin\Debug\net7.0\DateArithmetic.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\bin\Debug\net7.0\DateArithmetic.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\DateArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\DateArithmetic.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\DateArithmetic.AssemblyInfo.cs
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\DateArithmetic.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\DateArithmetic.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\refint\DateArithmetic.dll
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\DateArithmetic.pdb
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\DateArithmetic.genruntimeconfig.cache
+D:\ProjectsFromBooks\TheCSharpWorkshop\DateArithmetic\DateArithmetic\obj\Debug\net7.0\ref\DateArithmetic.dll

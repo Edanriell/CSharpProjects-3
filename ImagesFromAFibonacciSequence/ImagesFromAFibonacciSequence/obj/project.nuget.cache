@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcqpBrdl8Vo5S8fFU2yWWfrKorAFrIJWwkDj6Cp/fN+6sYQnRvGjyld3aju3hTewJ7QKlZqcy7moyPraGlLo+w==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectsFromBooks\\TheCSharpWorkshop\\ImagesFromAFibonacciSequence\\ImagesFromAFibonacciSequence\\ImagesFromAFibonacciSequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
